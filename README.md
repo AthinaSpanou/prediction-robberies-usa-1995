@@ -1,4 +1,4 @@
-# prediction-robberies-usa-1995
+# Prediction of USA Robberies in 1995
 
 The objective of this report is to identify the most significant variables in order to predict, through a regression
 model, the number of robberies per 100.000 habitants in the USA. The dataset that is used for this report’s
@@ -21,4 +21,8 @@ phenomenon of multi-collinearity in which the predictor variables of the multipl
 correlated hindered the attribute selection process even more.
 
 All in all, the question that has to be answered is the following: “**Are there any characteristics that can
-predict the number of robberies per 100.000 habitants of a typical area?** ”
+predict the number of robberies per 100.000 habitants of a typical area?**”
+
+## US Map
+
+![image]()
