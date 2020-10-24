@@ -26,3 +26,8 @@ predict the number of robberies per 100.000 habitants of a typical area?**”
 ## US Map
 
 ![image](https://github.com/AthinaSpanou/prediction-robberies-usa-1995/blob/main/R_USMAP.png)
+
+## Dataset
+
+The data set can be found here: 
+https://archive.ics.uci.edu/ml/datasets/Communities+and+Crime+Unnormalized
